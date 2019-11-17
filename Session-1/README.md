@@ -1,4 +1,6 @@
-## Definitions-
+[Assignment](https://github.com/kul-swat/EIP-4/blob/master/Session-1/Assignment_1_EIP4.ipynb) 1 is based on Convolution Neural Network, trained on MNIST dataset wth a validation accuracy of 99.17%. [Definations](https://github.com/kul-swat/EIP-4/blob/master/Session-1/Definitions_.ipynb) contains some basic definitions on Convolution Neural Network which can also be seen below.
+
+### Definitions-
 
 **Convolution**- Combination of input data with Kernel to produce output of a single layer. It contributes on reading the input data set.
 
