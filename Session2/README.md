@@ -44,7 +44,7 @@ Epoch 20/20
 <keras.callbacks.History at 0x7f53e7319588>
 
 Logs of 20 Epochs are mentioned above.
-Strategies to get 99.43% validation accuracy are: 
+Strategies to get 99.43% validation accuracy on 17th Epoch are: 
 1.) Used kernel of size 14x14 and 30x30, applied max pooling after 3 layers of convolutions. 
 2.) Batch Normalization is used in every layer. 
 3.) Drop out is used when model was reacting over fitting. 
